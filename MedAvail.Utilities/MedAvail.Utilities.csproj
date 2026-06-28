@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <LangVersion>latest</LangVersion>
+    <Nullable>enable</Nullable>
+
+    <!-- NuGet package metadata -->
+    <PackageId>MedAvail.Utilities</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>MedAvail</Authors>
+    <Description>Internal utility helpers for MedAvail projects. Provides string and date formatting extensions.</Description>
+    <PackageTags>medavail;utilities;internal</PackageTags>
+    <IsPackable>true</IsPackable>
+  </PropertyGroup>
+
+</Project>
