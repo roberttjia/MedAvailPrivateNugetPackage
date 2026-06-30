@@ -9,7 +9,7 @@
     <PackageId>MedAvail.Utilities</PackageId>
     <Version>1.0.0</Version>
     <Authors>MedAvail</Authors>
-    <Description>Internal utility helpers for MedAvail projects. Provides string and date formatting extensions.</Description>
+    <Description>Internal shared infrastructure for MedAvail services. Provides base service classes, validation framework, and operation result types.</Description>
     <PackageTags>medavail;utilities;internal</PackageTags>
     <IsPackable>true</IsPackable>
   </PropertyGroup>
